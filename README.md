@@ -1,4 +1,4 @@
-# Om-Scroll 3D Carousel
+# Om-Scroll 3D Carousel.
 
 A scroll based 3D carousel animation with a page transition effect.
 
